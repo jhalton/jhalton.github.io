@@ -3213,11 +3213,11 @@ fieldset:disabled .btn {
 }
 
 .btn-outline-light {
-    --bs-btn-color: #f8f9fa;
-    --bs-btn-border-color: #f8f9fa;
+    --bs-btn-color: #000000;
+    --bs-btn-border-color: #000;
     --bs-btn-hover-color: #000;
-    --bs-btn-hover-bg: #f8f9fa;
-    --bs-btn-hover-border-color: #f8f9fa;
+    --bs-btn-hover-bg: #dea4ce60;
+    --bs-btn-hover-border-color: #dea4ce;
     --bs-btn-focus-shadow-rgb: 248, 249, 250;
     --bs-btn-active-color: #000;
     --bs-btn-active-bg: #f8f9fa;

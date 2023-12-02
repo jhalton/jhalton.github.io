@@ -8014,6 +8014,8 @@ fieldset:disabled .btn {
 
 .mb-5 {
     margin-bottom: 3rem !important;
+    display: flex;
+    justify-content: center;
 }
 
 .mb-auto {
